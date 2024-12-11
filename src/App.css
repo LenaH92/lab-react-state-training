@@ -19,7 +19,12 @@
     margin: 5px;
 }
 
-#pfpIMG {
+#pfpIMG{
+    height: 300px;
+    width: 300px;
+}
+
+#diceDiv img{
     height: 300px;
     width: 300px;
 }
